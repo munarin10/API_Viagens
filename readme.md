@@ -8,3 +8,6 @@
 <br \>rodar pip install fastapi uvicorn
 <br \>pip freeze && pip freeze > requirements.tbr \t
 <br \>uvicorn main:app --host 127.0.0.1 --port 5000
+
+<img src="/Get & Post.PNG" alt="Texto Alternativo">
+<img src="/Swagger.PNG" alt="Texto Alternativo">

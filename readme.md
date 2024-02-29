@@ -9,5 +9,5 @@
 <br \>pip freeze && pip freeze > requirements.tbr \t
 <br \>uvicorn main:app --host 127.0.0.1 --port 5000
 
-<img src="/Get & Post-.jpg" alt="Texto Alternativo">
-<img src="/Swagger-.jpg" alt="Texto Alternativo">
+<img src="/Get & Post-.jpg" alt="Imagem do Get & Post">
+<img src="/Swagger-.jpg" alt="Imagem do Swagger">
